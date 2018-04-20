@@ -4,6 +4,7 @@ open-falcon邮件SSL接口
 FLASK 简单实现以下  
 url: http://127.0.0.1:4000/mail  
 
+pip install flask
 
 ----
 以下是falcon 文档说明  
