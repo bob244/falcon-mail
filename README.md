@@ -3,7 +3,7 @@ open-falcon邮件SSL接口
 官方插件不支持SSL  
 FLASK 简单实现以下  
 url: http://127.0.0.1:4000/mail  
-py 3.5+ 
+py 3.5+    
 pip install flask
 
 ----
